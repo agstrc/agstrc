@@ -12,5 +12,5 @@ For programming and related tasks, I mostly use:
 ![Best OS](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)  
 <!-- That FastAPI badge URL is insane -->
-I also currently plan to study Rust.  
+Also, I am currently studying Go.  
 If you'd like to contact me, my email is available in my GitHub profile. Also, if you speak portuguese, check out my website at https://agst.dev
