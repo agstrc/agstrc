@@ -10,7 +10,7 @@ For programming and related tasks, I mostly use:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Best OS](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Go](https://img.shields.io/badge/Golang-2CA5E0?style=for-the-badge&logo=go&logoColor=white)  
 <!-- That FastAPI badge URL is insane -->
-Also, I am currently studying Go.  
 If you'd like to contact me, my email is available in my GitHub profile. Also, if you speak portuguese, check out my website at https://agst.dev
